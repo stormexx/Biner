@@ -1,7 +1,7 @@
 <h1 align="center">Biner v1.0</h1>
 
 # Biner
-Biner for looking up credit and debit card metadata
+Biner for looking up credit and debit card metadata.
 
 
 #### SETUP AND RUNNING
