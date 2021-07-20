@@ -49,7 +49,8 @@ def interactive_shell():
                 + light_green(" »")
                 + reset()
             )
-
+            os.system("clear")
+            banner()
             if cmd != "":
                 if cmd.split()[0] == "help":
                     print(light_green(tableOfCommands.table))
