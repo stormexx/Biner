@@ -8,7 +8,7 @@ Biner for looking up credit and debit card metadata.
 Setup instructions [here](<https://github.com/stormexx/Biner/wiki/Setting-Up-Biner>).
 
 
-![Screenshot](link)
+![Screenshot](https://raw.githubusercontent.com/stormexx/Biner/main/files/screenshot.png)
 
 
 Copyright (c) 2021 [stormex](https://twitter.com/_stormex/). All rights reserved.
