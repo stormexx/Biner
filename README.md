@@ -1,4 +1,4 @@
-<h1 align="center">Biner v1.1</h1>
+<h1 align="center">Biner</h1>
 
 # Biner
 Biner for looking up credit and debit card metadata.
